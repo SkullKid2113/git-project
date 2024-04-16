@@ -1,2 +1,3 @@
 # ignore OS generated files/folders
 .env.local
+.env.production.local
